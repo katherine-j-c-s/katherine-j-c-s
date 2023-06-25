@@ -48,7 +48,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
    ![express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
    ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-   ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+   ![mysql](https://img.shields.io/badge/mysql-38B2AC?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 <br>
 
