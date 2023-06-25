@@ -27,7 +27,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
 
-<p align="center">
+
 
 **Languages**:
 
@@ -55,7 +55,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <br>
 
-- **Cloud Hosting**:
+**Cloud Hosting**:
 
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
@@ -76,7 +76,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <br>
 
-</p>
+
 
 <br>
 <br>
