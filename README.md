@@ -53,12 +53,10 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
    ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
 <br>
-
 - **Cloud Hosting**:
-
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-  ![Cloudinary](https://res.cloudinary.com/cloudinary/image/upload/new_cloudinary_logo_square.png)&nbsp;
-  ![Railway](https://railway.app/brand/logo-dark.png)&nbsp;
+  ![Cloudinary](https://img.shields.io/badge/cloudflare-2C39BD?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
+  ![Railway](https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)&nbsp;
     
 <br>
