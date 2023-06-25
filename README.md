@@ -22,7 +22,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 </div>
 
 
-<br>
+<br><br>
 
 
 ## <b> **Let's Connect..!**</b><img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width ="40">
