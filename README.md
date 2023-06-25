@@ -31,8 +31,8 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <p align="left">
 <a href="https://linkedin.com/in/katherine j contreras s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katherine j contreras s" height="30" width="40" /></a>
-<a href="https://instagram.com/katherine_jcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katherine_jcs" height="30" width="40" /></a>
 <a href="https://discord.gg/#4555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4555" height="30" width="40" /></a>
+<a href="https://instagram.com/katherine_jcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katherine_jcs" height="30" width="40" /></a>
 <a href="https://codepen.io/katherine-j-c-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="katherine-j-c-s" height="30" width="40" /></a>
 </p>
 
