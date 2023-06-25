@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Katherine Contreras</h1>
+
+<br>
 <h3 align="center">Full Stack Developer</h3>
+<br>
 
 I am always looking for new skills and knowledge🎓considering myself an autodidact passionate about constantly learning. I like going to the gym 💪 and spend time with my family 👨‍👩‍👧‍👧 Currently, I am looking for **job opportunities** as a programmer in companies or startups. My value proposition lies in my way to adapt to any situations, which makes my projects as a programmer easier to do. 💡💪
 
