@@ -3,6 +3,8 @@
 
 I am always looking for new skills and knowledge🎓considering myself an autodidact passionate about constantly learning. I like going to the gym 💪 and spend time with my family 👨‍👩‍👧‍👧 Currently, I am looking for **job opportunities** as a programmer in companies or startups. My value proposition lies in my way to adapt to any situations, which makes my projects as a programmer easier to do. 💡💪
 
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+
 - 🔭 I’m currently looking for **job opportunities**
 
 - 👨‍💻 All of my projects are available at [https://github.com/katherine-j-c-s](https://github.com/katherine-j-c-s)
