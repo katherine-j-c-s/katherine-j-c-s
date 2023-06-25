@@ -1,6 +1,4 @@
-<div height="200">
-  [![MasterHead](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)](https://unsplash.com/es)
-</div>
+[![MasterHead](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)height="200"](https://unsplash.com/es)
 <h1 align="center">Hi 👋, I'm Katherine Contreras</h1>
 <h3 align="center">Full Stack Developer</h3>
 
