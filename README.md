@@ -59,7 +59,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Cloudinary](https://res.cloudinary.com/cloudinary/image/upload/new_cloudinary_logo_square.png)&nbsp;
   ![Railway](https://railway.app/brand/logo-dark.png)&nbsp;
-  ![Vercel](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_5bea21648f3f6037c009de3c26ee3a91/vercel.jpg)&nbsp;
+  ![Vercel](https://img.shields.io/badge/https%3A%2F%2Fimages.g2crowd.com%2Fuploads%2Fproduct%2Fimage%2Fsocial_landscape%2Fsocial_landscape_5bea21648f3f6037c009de3c26ee3a91%2Fvercel.jpg)&nbsp;
     
 <br>
 
