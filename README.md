@@ -27,9 +27,9 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
 
+<p align="center">
 
-
-**Languages**:
+- **Languages**:
 
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -64,7 +64,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
     
 <br>
 
-**Softwares and Tools**:
+- **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -76,7 +76,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <br>
 
-
+</p>
 
 <br>
 <br>
