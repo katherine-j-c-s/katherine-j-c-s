@@ -42,6 +42,8 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <br><br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katherine-j-c-s&show_icons=true&locale=en&layout=compact" alt="katherine-j-c-s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katherine-j-c-s&show_icons=true&locale=en" alt="katherine-j-c-s" /></p>
