@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katherine Contreras</h1>
 
-<br>
 <h3 align="center">Full Stack Developer</h3>
 <br>
 
