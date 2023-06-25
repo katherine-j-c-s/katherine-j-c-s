@@ -36,7 +36,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <br>   
     
-**Front-End Development**:
+- **Front-End Development**:
 
    ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
    ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -45,7 +45,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <br>   
     
-**Back-End Development**:
+- **Back-End Development**:
   
    ![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
    ![express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
@@ -55,7 +55,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <br>
 
-**Cloud Hosting**:
+- **Cloud Hosting**:
 
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
