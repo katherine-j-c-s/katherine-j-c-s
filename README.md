@@ -25,16 +25,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 <br><br>
 
 
-## <b> **Let's Connect..!**</b><img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width ="40">
 
-<br>
-
-<p align="left">
-<a href="https://linkedin.com/in/katherine j contreras s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katherine j contreras s" height="30" width="40" /></a>
-<a href="https://discord.gg/#4555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4555" height="30" width="40" /></a>
-<a href="https://instagram.com/katherine_jcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katherine_jcs" height="30" width="40" /></a>
-<a href="https://codepen.io/katherine-j-c-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="katherine-j-c-s" height="30" width="40" /></a>
-</p>
 
 <p align="center">
 
@@ -100,6 +91,17 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> 
+</p>
+
+## <b> **Let's Connect..!**</b><img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width ="40">
+
+<br>
+
+<p align="left">
+<a href="https://linkedin.com/in/katherine j contreras s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katherine j contreras s" height="30" width="40" /></a>
+<a href="https://discord.gg/#4555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4555" height="30" width="40" /></a>
+<a href="https://instagram.com/katherine_jcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katherine_jcs" height="30" width="40" /></a>
+<a href="https://codepen.io/katherine-j-c-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="katherine-j-c-s" height="30" width="40" /></a>
 </p>
 
 <br>
