@@ -15,7 +15,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 - 📫 How to reach me **kathijcs@gmial.com**
 </div>
 
-<h3 align="left"> Let's Connect..!</h3><img align="right" src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width ="40">
+<h3 align="left"> Let's Connect..!</h3><img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width ="40">
 <p align="left">
 <a href="https://codepen.io/katherine-j-c-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="katherine-j-c-s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/katherine j contreras s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katherine j contreras s" height="30" width="40" /></a>
