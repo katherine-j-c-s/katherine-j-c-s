@@ -38,8 +38,6 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 </div>
 
-<br> 
-
 <div align="right">
     
 <div> Cloud Hosting </div>
@@ -64,8 +62,6 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
  
 </div>
 
-<br>
-
 <div align="right">
     
 <p> Back-End Development </p>
@@ -80,8 +76,6 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <br>
 
-
-    
 <p align="left"> Softwares and Tools </p>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
