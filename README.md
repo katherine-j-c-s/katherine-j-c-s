@@ -31,7 +31,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <div align="left">
     
-<p> **Languages** </p>
+<p> Languages </p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -42,7 +42,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <div align="right">
     
-<div> **Cloud Hosting** </div>
+<div> Cloud Hosting </div>
 
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
@@ -55,7 +55,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <div align="left">
     
-<p> **Front-End Development** </p>
+<p> Front-End Development </p>
 
    ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
    ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -68,7 +68,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <div align="right">
     
-<p> **Back-End Development** </p>
+<p> Back-End Development </p>
 
    ![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
    ![express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
@@ -80,9 +80,9 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <br>
 
-<div align="center">
+
     
-    <p> **Softwares and Tools** </p>
+<p align="center"> Softwares and Tools </p>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -92,7 +92,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 ![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
 
-</div>
+
 
 <br>
 <br>
