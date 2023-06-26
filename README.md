@@ -36,15 +36,6 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
   <br>
-
-- **Cloud Hosting**
-  
-  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-  ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
-  ![Railway](https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)&nbsp;
-
-  <br>
     
 - **Front-End Development**
 
@@ -64,7 +55,16 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
    ![sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)&nbsp;
 
   <br>
+  
+- **Cloud Hosting**
+  
+  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+  ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
+  ![Railway](https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)&nbsp;
 
+  <br>
+  
 - **Softwares and Tools**
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
