@@ -77,7 +77,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
 
 </p>
-<img align="right" width="400" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47mnrtz3x6twywzar29j4li7tiwdaq0xic8vvtiu5a&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
+
 <br>
 <br>
 
