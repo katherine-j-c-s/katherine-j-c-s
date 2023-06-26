@@ -49,8 +49,6 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
     
 </div>
 
-<br>
-
 <div align="left">
     
 <p> Front-End Development </p>
@@ -74,8 +72,6 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 </div>
 
-<br>
-
 <p align="left"> Softwares and Tools </p>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -85,7 +81,6 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
-
 
 
 <br>
