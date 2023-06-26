@@ -12,6 +12,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 <img align="right" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ap1nw7d2s7dpn1tcfkosyxsfjf62n38zhm6r9bmk&ep=v1_gifs_related&rid=giphy.gif&ct=g"></img>
 
 <div align="left">
+  
 - 🔭 I’m currently looking for **job opportunities**
 
 - 👨‍💻 All of my projects are available at [https://github.com/katherine-j-c-s](https://github.com/katherine-j-c-s)
