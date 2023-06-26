@@ -82,7 +82,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 
     
-<p align="center"> Softwares and Tools </p>
+<p align="left"> Softwares and Tools </p>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
