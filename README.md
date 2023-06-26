@@ -31,8 +31,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <div align="left">
     
-    - **Languages**:
-
+**Languages**
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
@@ -42,8 +41,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <div align="right">
 
-- **Cloud Hosting**:
-
+**Cloud Hosting**:
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
   ![Railway](https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;
@@ -55,8 +53,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <div align="left">
 
-   - **Front-End Development**:
-
+**Front-End Development**:
    ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
    ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -68,8 +65,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <div align="right">
     
-    - **Back-End Development**:
-  
+**Back-End Development**:
    ![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
    ![express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
    ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -83,7 +79,6 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 <div align="center">
     
 - **Softwares and Tools**:
-
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
     ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
