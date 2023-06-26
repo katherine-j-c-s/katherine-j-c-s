@@ -62,7 +62,8 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
   ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
   ![Railway](https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)&nbsp;
-
+  ![netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
+  
   <br>
   
 - **Softwares and Tools**
