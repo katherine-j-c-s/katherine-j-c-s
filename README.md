@@ -42,7 +42,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <div align="right">
     
-<p> **Cloud Hosting** </p>
+<div> **Cloud Hosting** </div>
 
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
