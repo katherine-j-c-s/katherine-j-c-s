@@ -27,6 +27,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
 
+<p align="left">
 
 - **Languages**
 
@@ -65,6 +66,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
   ![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
 
+</p>
 
 <br>
 <br>
