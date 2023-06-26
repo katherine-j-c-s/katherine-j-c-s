@@ -27,33 +27,20 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
 
-<p align="center">
 
-- **Languages**:
+
+<div align="left">
+    
+    - **Languages**:
 
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-<br>   
-    
-- **Front-End Development**:
+</div>
 
-   ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-   ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-   ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+<br> 
 
-<br>   
-    
-- **Back-End Development**:
-  
-   ![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-   ![express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-   ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-   ![mysql](https://img.shields.io/badge/mysql-38B2AC?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-   ![sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)&nbsp;
-
-<br>
+<div align="right">
 
 - **Cloud Hosting**:
 
@@ -62,8 +49,39 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
   ![Railway](https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)&nbsp;
     
+</div>
+
 <br>
 
+<div align="left">
+
+   - **Front-End Development**:
+
+   ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+   ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+   ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+ 
+</div>
+
+<br>
+
+<div align="right">
+    
+    - **Back-End Development**:
+  
+   ![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+   ![express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+   ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+   ![mysql](https://img.shields.io/badge/mysql-38B2AC?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+   ![sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)&nbsp;
+
+</div>
+
+<br>
+
+<div align="center">
+    
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -74,10 +92,9 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
     ![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
 
+</div>
+
 <br>
-
-</p>
-
 <br>
 <br>
 
