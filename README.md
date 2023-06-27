@@ -38,7 +38,7 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
   <br>
   
-  - **Back-End Development**
+- **Back-End Development**
 
    ![express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
    ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
