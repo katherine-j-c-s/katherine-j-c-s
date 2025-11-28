@@ -8,9 +8,11 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
+
+<img align="right" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ap1nw7d2s7dpn1tcfkosyxsfjf62n38zhm6r9bmk&ep=v1_gifs_related&rid=giphy.gif&ct=g"></img>
 
 <div align="left">
+  
 
 - 🔭 I'm currently working on **Enterprise Construction Management Systems** at Simetra
 
