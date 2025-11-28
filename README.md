@@ -159,8 +159,8 @@ I am always looking for new skills and knowledge🎓considering myself an autodi
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katherine-j-c-s&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="katherine-j-c-s" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katherine-j-c-s&show_icons=true&locale=en&layout=compact" alt="katherine-j-c-s" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katherine-j-c-s&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="katherine-j-c-s" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katherine-j-c-s&show_icons=true&locale=en" alt="katherine-j-c-s" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.demolab.com/?user=katherine-j-c-s&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="katherine-j-c-s" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katherine-j-c-s&" alt="katherine-j-c-s" /></p>
